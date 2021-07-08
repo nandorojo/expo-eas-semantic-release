@@ -1,3 +1,10 @@
+### [6.0.1-eas.1](https://github.com/nandorojo/expo-eas-semantic-release/compare/6.0.0...6.0.1-eas.1) (2021-07-08)
+
+
+### Other chores
+
+* create new release 6.0.0-eas.1 ([c6d4a23](https://github.com/nandorojo/expo-eas-semantic-release/commit/c6d4a2312ee04787861c5c2cd44069e65d402a7a))
+
 ## [6.0.0-eas.1](https://github.com/nandorojo/expo-eas-semantic-release/compare/5.0.0...6.0.0-eas.1) (2021-07-08)
 
 ## [6.0.0](https://github.com/nandorojo/expo-eas-semantic-release/compare/5.0.0...6.0.0) (2021-07-08)
