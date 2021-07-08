@@ -7,6 +7,8 @@
 
 ## [2.0.0-next.1](https://github.com/nandorojo/expo-eas-semantic-release/compare/1.0.0...2.0.0-next.1) (2021-07-08)
 
+## [2.0.0](https://github.com/nandorojo/expo-eas-semantic-release/compare/1.0.0...2.0.0) (2021-07-08)
+
 
 ### Other chores
 
