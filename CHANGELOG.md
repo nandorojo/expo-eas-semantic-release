@@ -1,3 +1,9 @@
+## [3.0.0-next.1](https://github.com/nandorojo/expo-eas-semantic-release/compare/2.0.1...3.0.0-next.1) (2021-07-08)
+
+
+* major version on master ([2ff94f3](https://github.com/nandorojo/expo-eas-semantic-release/commit/2ff94f35f889cac002d1e8d78bcc1de6dfd5baab))
+* test major pre-release? ([df44047](https://github.com/nandorojo/expo-eas-semantic-release/commit/df44047ded2198461f634521336be4599d515084))
+
 ### [2.0.1](https://github.com/nandorojo/expo-eas-semantic-release/compare/2.0.0...2.0.1) (2021-07-08)
 
 
