@@ -1,5 +1,6 @@
 ## [6.0.0-eas.1](https://github.com/nandorojo/expo-eas-semantic-release/compare/5.0.0...6.0.0-eas.1) (2021-07-08)
 
+## [6.0.0](https://github.com/nandorojo/expo-eas-semantic-release/compare/5.0.0...6.0.0) (2021-07-08)
 
 ### Other chores
 
