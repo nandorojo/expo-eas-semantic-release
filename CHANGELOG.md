@@ -1,3 +1,13 @@
+## [2.0.0-next.1](https://github.com/nandorojo/expo-eas-semantic-release/compare/1.0.0...2.0.0-next.1) (2021-07-08)
+
+
+### Other chores
+
+* create new release 1.0.0-next.2 ([ee1badd](https://github.com/nandorojo/expo-eas-semantic-release/commit/ee1badd9d7b89b5c94e173d64e2102ae2bfe5c85))
+
+
+* test major version, use on any branch ([340cf67](https://github.com/nandorojo/expo-eas-semantic-release/commit/340cf67ad3812f89c5943516a38b3fd2b29ff7fd))
+
 ## [1.0.0-next.2](https://github.com/nandorojo/expo-eas-semantic-release/compare/1.0.0-next.1...1.0.0-next.2) (2021-07-08)
 
 
