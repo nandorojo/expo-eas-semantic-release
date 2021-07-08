@@ -1,3 +1,8 @@
+## [5.0.0-eas.1](https://github.com/nandorojo/expo-eas-semantic-release/compare/4.0.0...5.0.0-eas.1) (2021-07-08)
+
+
+* should increment to v5 ([735f05d](https://github.com/nandorojo/expo-eas-semantic-release/commit/735f05d6daf50fee8ea8e8e318b00ed6acc927d9))
+
 ## [4.0.0](https://github.com/nandorojo/expo-eas-semantic-release/compare/3.0.0...4.0.0) (2021-07-08)
 
 
