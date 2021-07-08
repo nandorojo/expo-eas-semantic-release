@@ -2,6 +2,15 @@
 
 
 * v6 IFF deleting branch matters. otherwise, no need to delete branches ([6349f68](https://github.com/nandorojo/expo-eas-semantic-release/commit/6349f68c3f3836847590c0c560116f3f178097d4))
+## [5.0.0](https://github.com/nandorojo/expo-eas-semantic-release/compare/4.0.0...5.0.0) (2021-07-08)
+
+
+### Other chores
+
+* create new release 5.0.0-eas.1 ([bc691d9](https://github.com/nandorojo/expo-eas-semantic-release/commit/bc691d9517125934bae0fc286cf1ad6bf550af8e))
+
+
+* should increment to v5 ([735f05d](https://github.com/nandorojo/expo-eas-semantic-release/commit/735f05d6daf50fee8ea8e8e318b00ed6acc927d9))
 
 ## [5.0.0-eas.1](https://github.com/nandorojo/expo-eas-semantic-release/compare/4.0.0...5.0.0-eas.1) (2021-07-08)
 
