@@ -7,7 +7,7 @@ const rules = [
   { type: "docs", release: "patch", title: "Documentation changes" },
   { type: "native", release: "major" },
 ];
-// major-5
+// major after merging, without deleting branch, does this still go to v6?
 
 // Simple mapping to order the commit groups
 const sortMap = Object.fromEntries(
