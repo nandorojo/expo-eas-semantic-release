@@ -1,3 +1,13 @@
+## [4.0.0](https://github.com/nandorojo/expo-eas-semantic-release/compare/3.0.0...4.0.0) (2021-07-08)
+
+
+### Other chores
+
+* create new release 4.0.0-eas.1 ([cae053c](https://github.com/nandorojo/expo-eas-semantic-release/commit/cae053cf43ece8e0c030182f399ba512a1c2f19d))
+
+
+* full increment on prerelease test? should be 4.0.0-eas.1 ([1fdc185](https://github.com/nandorojo/expo-eas-semantic-release/commit/1fdc1855746e0c1c082a339cc30d2b8b8cfa414a))
+
 ## [4.0.0-eas.1](https://github.com/nandorojo/expo-eas-semantic-release/compare/3.0.0...4.0.0-eas.1) (2021-07-08)
 
 
