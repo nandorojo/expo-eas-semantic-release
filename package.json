@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "eas-semantic",
   "private": true,
   "devDependencies": {
     "expo-yarn-workspaces": "^1.5.1"
