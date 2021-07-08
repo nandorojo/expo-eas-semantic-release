@@ -1,3 +1,16 @@
+### [2.0.1](https://github.com/nandorojo/expo-eas-semantic-release/compare/2.0.0...2.0.1) (2021-07-08)
+
+
+### Bug fixes
+
+* patch change test ([aa692b5](https://github.com/nandorojo/expo-eas-semantic-release/commit/aa692b5ea9d7f5f43d525994df7383ebac7838b9))
+
+
+### Other chores
+
+* create new release 2.0.0-next.1 ([11ce94f](https://github.com/nandorojo/expo-eas-semantic-release/commit/11ce94fda5cc0f879cf036ccd2b4ea3649e01815))
+* create new release 2.0.0-next.2 ([006c577](https://github.com/nandorojo/expo-eas-semantic-release/commit/006c5774d33669e4e27758ce91be015caffd5e3b))
+
 ## [2.0.0-next.2](https://github.com/nandorojo/expo-eas-semantic-release/compare/2.0.0-next.1...2.0.0-next.2) (2021-07-08)
 
 
