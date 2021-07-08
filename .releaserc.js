@@ -7,6 +7,7 @@ const rules = [
   { type: "docs", release: "patch", title: "Documentation changes" },
   { type: "native", release: "major" },
 ];
+// patch
 
 // Simple mapping to order the commit groups
 const sortMap = Object.fromEntries(
