@@ -1,20 +1,39 @@
 name: Release
-on:
-  push:
-    inputs:
-      platform:
-        description: Platform to build for (android/ios)
-        required: true
-        default: all
-      profile:
-        description: EAS build profile (release, release-sandbox, internal, internal-sandbox, dev, dev-sandbox)
-        required: true
-        default: release
+on: push
+#   workflow_dispatch:
+#     inputs:
+#       platform:
+#         description: Platform to build for (android/ios)
+#         required: true
+#         default: all
+#       profile:
+#         description: EAS build profile (release, release-sandbox, internal, internal-sandbox, dev, dev-sandbox)
+#         required: true
+#         default: release
 jobs:
+  getprofiles:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.environments }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: nelonoel/branch-name@v1.0.1
+      - id: set-matrix
+        uses: JoshuaTheMiller/conditional-build-matrix@v0.0.1    
+        with:          
+          inputFile: ./github/workflows/release-environments.json
+          filter: '[?branch==`${{ env.BRANCH_NAME }}` || branch==`beta`]'
+#       - id: set-matrix
+#         run: echo "::set-output name=environments::{\"environments\":{\"release\":[\"release\",\"release-sandbox\"],\"beta\":[\"internal\",\"internal-sandbox\",\"dev\",\"dev-sandbox\"]}}"
   release:
     name: Release
+    needs: getprofiles
     runs-on: ubuntu-latest
+    strategy:
+      matrix: 
+        appEnvironment: ${{fromJson(needs.getprofiles.outputs.matrix)}}
     steps:
+      - run: echo "🎉 Will run release on hypothetical environment ${{ matrix.appEnvironment }}"
       - name: Checkout
         uses: actions/checkout@v2
         with:
