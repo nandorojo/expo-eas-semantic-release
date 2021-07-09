@@ -31,6 +31,7 @@ jobs:
         run: npx semantic-release
   build:
     needs: release
+    runs-on: ubuntu-latest
     # if: ${{ github.ref == 'refs/heads/master' || github.ref == 'refs/head/beta' }}
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event on the ${{ github.ref }} branch."
