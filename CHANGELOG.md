@@ -1,3 +1,13 @@
+## [7.0.0-eas.2](https://github.com/nandorojo/expo-eas-semantic-release/compare/7.0.0-eas.1...7.0.0-eas.2) (2021-07-09)
+
+
+### Bug fixes
+
+* yaml ([0aa24b5](https://github.com/nandorojo/expo-eas-semantic-release/commit/0aa24b5675173e5d1570ddf51c8b3a04120c386c))
+
+
+* git action run on certain branches? ([1047894](https://github.com/nandorojo/expo-eas-semantic-release/commit/10478947cb15ef597aa84ac09fba3875941a3705))
+
 ## [7.0.0-eas.1](https://github.com/nandorojo/expo-eas-semantic-release/compare/6.0.1...7.0.0-eas.1) (2021-07-09)
 
 
