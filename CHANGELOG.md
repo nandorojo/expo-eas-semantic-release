@@ -1,3 +1,8 @@
+## [7.0.0-eas.1](https://github.com/nandorojo/expo-eas-semantic-release/compare/6.0.1...7.0.0-eas.1) (2021-07-09)
+
+
+* should go to v7 ([f56c404](https://github.com/nandorojo/expo-eas-semantic-release/commit/f56c404faf2591807c0f3553cd4e2f98b95da63b))
+
 ### [6.0.1](https://github.com/nandorojo/expo-eas-semantic-release/compare/6.0.0...6.0.1) (2021-07-08)
 
 
