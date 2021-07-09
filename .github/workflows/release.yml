@@ -17,14 +17,8 @@ jobs:
       matrix: ${{ steps.set-matrix.outputs.environments }}
     steps:
       - uses: actions/checkout@v2
-      - uses: nelonoel/branch-name@v1.0.1
       - id: set-matrix
-        uses: JoshuaTheMiller/conditional-build-matrix
-        with:          
-          inputFile: ./github/workflows/release-environments.json
-          filter: '[?branch==`${{ env.BRANCH_NAME }}` || branch==`beta`]'
-#       - id: set-matrix
-#         run: echo "::set-output name=environments::{\"environments\":{\"release\":[\"release\",\"release-sandbox\"],\"beta\":[\"internal\",\"internal-sandbox\",\"dev\",\"dev-sandbox\"]}}"
+        run: echo "::set-output name=environments::[\"release\",\"release-sandbox\"]"
   release:
     name: Release
     needs: getprofiles
