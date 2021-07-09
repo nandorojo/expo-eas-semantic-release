@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: nelonoel/branch-name@v1.0.1
       - id: set-matrix
-        uses: JoshuaTheMiller/conditional-build-matrix@v0.0.1    
+        uses: JoshuaTheMiller/conditional-build-matrix
         with:          
           inputFile: ./github/workflows/release-environments.json
           filter: '[?branch==`${{ env.BRANCH_NAME }}` || branch==`beta`]'
