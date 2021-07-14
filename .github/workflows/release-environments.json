@@ -1,0 +1,4 @@
+[
+  { "branch": "master", "environments": ["release", "release-sandbox"] },
+  { "branch": "eas", "environments": ["dev", "dev-sandbox", "internal", "internal-sandbox"] }
+]
