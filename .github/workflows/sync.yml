@@ -2,7 +2,7 @@ name: Sync
 on:
   release:
     branches:
-      - master #
+      - master
 
 jobs:
   sync-branches:
