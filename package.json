@@ -16,6 +16,7 @@
   ],
   "scripts": {
     "native": "cd packages/app && yarn start",
-    "web": "cd packages/app && yarn next"
+    "web": "cd packages/app && yarn next",
+    "sandbox-script": "# no-op"
   }
 }
