@@ -1,3 +1,8 @@
+## [8.0.0](https://github.com/nandorojo/expo-eas-semantic-release/compare/7.0.0...8.0.0) (2021-07-14)
+
+
+* add package.json commit to merge into sandbox ([cc3b386](https://github.com/nandorojo/expo-eas-semantic-release/commit/cc3b38605da6b7bea4b040c44ea509d8b77a0d77))
+
 ## [7.0.0](https://github.com/nandorojo/expo-eas-semantic-release/compare/6.0.1...7.0.0) (2021-07-14)
 
 
