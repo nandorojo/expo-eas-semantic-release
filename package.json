@@ -17,6 +17,5 @@
   "scripts": {
     "native": "cd packages/app && yarn start",
     "web": "cd packages/app && yarn next"
-  },
-  "master": "# this should push to sandbox"
+  }
 }

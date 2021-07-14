@@ -1,6 +1,6 @@
 name: Sync
 on:
-  push:
+  release:
     branches:
       - master
 
