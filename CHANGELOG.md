@@ -1,3 +1,25 @@
+## [8.0.0](https://github.com/nandorojo/expo-eas-semantic-release/compare/7.0.0...8.0.0) (2021-07-14)
+
+
+* add package.json commit to merge into sandbox ([cc3b386](https://github.com/nandorojo/expo-eas-semantic-release/commit/cc3b38605da6b7bea4b040c44ea509d8b77a0d77))
+
+## [7.0.0](https://github.com/nandorojo/expo-eas-semantic-release/compare/6.0.1...7.0.0) (2021-07-14)
+
+
+### Bug fixes
+
+* yaml ([0aa24b5](https://github.com/nandorojo/expo-eas-semantic-release/commit/0aa24b5675173e5d1570ddf51c8b3a04120c386c))
+
+
+### Other chores
+
+* create new release 7.0.0-eas.1 ([d001fe6](https://github.com/nandorojo/expo-eas-semantic-release/commit/d001fe6cbb9d830de6dc0848fead3451dee6c0e6))
+* create new release 7.0.0-eas.2 ([4298b4b](https://github.com/nandorojo/expo-eas-semantic-release/commit/4298b4bd7c9fa6da392c297b95fa2c65b739a977))
+
+
+* git action run on certain branches? ([1047894](https://github.com/nandorojo/expo-eas-semantic-release/commit/10478947cb15ef597aa84ac09fba3875941a3705))
+* should go to v7 ([f56c404](https://github.com/nandorojo/expo-eas-semantic-release/commit/f56c404faf2591807c0f3553cd4e2f98b95da63b))
+
 ## [7.0.0-eas.2](https://github.com/nandorojo/expo-eas-semantic-release/compare/7.0.0-eas.1...7.0.0-eas.2) (2021-07-09)
 
 
