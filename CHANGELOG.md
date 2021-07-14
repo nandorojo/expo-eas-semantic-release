@@ -1,3 +1,8 @@
+## [10.0.0](https://github.com/nandorojo/expo-eas-semantic-release/compare/9.0.0...10.0.0) (2021-07-14)
+
+
+* major version bump, should propagage to sandbox too (v10) ([c08dd22](https://github.com/nandorojo/expo-eas-semantic-release/commit/c08dd226d20ea85b46ac03336c6001557b15ce80))
+
 ## [9.0.0](https://github.com/nandorojo/expo-eas-semantic-release/compare/8.0.0...9.0.0) (2021-07-14)
 
 
