@@ -149,4 +149,4 @@ Then, in your `packages/app/ios/Podfile`, update these lines:
 + pod ‘expo-dev-menu’, path: ‘../../../node_modules/expo-dev-menu’, :configurations => :debug
 ```
 
-This should be solved with a config plugin, but I don't know how yet 🙃
+This should be solved with a config plugin, but I don't know how yet 🙃 So I'm sticking to `patch-package` for now.
