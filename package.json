@@ -15,7 +15,7 @@
     "packages/*"
   ],
   "scripts": {
-    "native": "cd packages/app && yarn start",
+    "native": "cd packages/app && yarn start", 
     "web": "cd packages/app && yarn next"
   }
 }
